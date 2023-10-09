@@ -1,4 +1,4 @@
-# Hunt and Hunter problem with Simulating Annealing 
+# Fruit and Rotten Recognition (Transform Learning)
 
 In this problem we have a list of hunt and hunter animals that said us which animal hunt another and then we should sort a list that a hunter and hunt are in a right situation ( if animal 2 hunt 4 so 2 must become sooner in our list )
 
